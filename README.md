@@ -279,3 +279,85 @@ Games mean a better web - Better features, better performance - the web technolo
 [Mozilla general wiki](https://wiki.mozilla.org/Main_Page) - more general info on the latest stuff, road maps etc
 
 Try it: Firefox Aurora or Nightly!
+
+## Paul Boag - Client Centric Web Design
+
+[@boagworld](http://twitter.com/#!/boagworld)
+
+How many of us feel the frustration of clients? There's blogs out there dedicated to it! And a post like Why we gave up client work after 10 years.
+
+We can all associate with the frustrations of working with clients.
+
+The *trendy* solution is to go work on our own projects - client work is just for paying the bills!
+
+Client work shouldn't be the second rate option.
+
+### The principles of client centric web design
+
+*  We provide a service
+*	The client must be involved in the process
+*	It's about the client, not the user (as much as we might dislike the thought) - sometimes business needs will out-weigh the user needs, we need to find a balance without pissing off the user.
+
+### The benefits
+
+*	It produces better websites
+*	It makes for happier clients - they feel engaged
+*	Generates repeat business
+*	Increased job satisfaction - you're happy when your clients are happy
+
+### What is it?
+
+#### Mutual Respect: it works both ways
+
+Change our attitude to clients - they're not stupid, their knowlesge sits in their business, and we need that knowledge. They know about their users/customers. Ultimately they want a good website as well, their view of what that means is just not necessarily the same as ours...
+
+How do we earn their respect - we are proffessionals, we need to show them we are experts in our field. Confident, not arrogant. Associate yourselves with expertise - show you can demonstrate your knowledge with examples. You can show your expertise through process and past experiences.
+
+Define your roles - you each have your own responsibilites - client finds problems, we find solutions.
+
+#### Good communication
+
+Avoid where possible, misunderstandings...
+
+Clients won't respond well to surprises!
+
+Good communication gives the client the sense of control, if they don't know what's going on they feel it's out of control.
+
+Don't always use digital communication! It can lead to mis-interpretations.
+
+Regular communication. Honest communication - don't hide possible issues.
+
+Make it about more than business... If there's a good relationship it becomes more personal.
+
+Empathy is powerful, get to know what their motivations are, is their job on the line for this project?
+
+#### Education 
+
+Again it works both ways.
+
+We need to understand their business, so we can work to their business needs and justify our motivations for doing things.
+
+Stakeholder interviews - understand the motivations behind everyone who has a stake in the project.
+
+Educate the client - make sure they understand your process. Don't always reject their ideas.
+
+#### Collaboration
+
+Show progress little and often.
+
+Swallow your pride - sometimes the client can have good ideas, don't ignore them because you didn't think of it yourself.
+
+Involve them in the process, don't just take them from requirements to final design.
+
+#### Getting sign off
+
+Don't just send a PDF - send a video explaining the design
+
+Ask the right questions - avoid the "I don't like the green"
+
+#### Dealing with disagreements
+
+Pick your battles.
+
+Ask why? Why don't they like something, again finding the problem not the solution.
+
