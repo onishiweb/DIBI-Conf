@@ -93,3 +93,90 @@ Taking a deeper look at the design principle:
 *	Make things open, it makes things better: That's why the alpha and beta have been openly released already - the community is helping to shape the new government site, all sharable via [github](http://github.com/alphagov) follow [@alphagov](http://twitter.com/alphagov) on twitter
 
 The future is good, the site is being constantly iterated on, and they are still hiring for people to help!!
+
+## Brian LeRoux - Mobile Web Programming is a Bloody Mess!
+
+"Debugging in the shit!"
+
+[@brianleroux](http://twitter.com/#!/brianleroux)
+
+Mobile programming is a messy environment - PhoneGap!
+
+Loads of different languages to work on mobile apps, phone gap was accidently conceived?
+
+To be a native programmer you need to know 8 languages and multiple SDKs... as well as multiple devices etc
+
+Started rolling own jQuery - XUIJS
+
+Offline web apps - storing data is somewhat fragmented:
+
+*  localStorage 
+*	webSQL - not a great idea! (deprecated)
+*	indexedDB - possible solution, in some browsers, not in phones
+*	"IE has it's own Fucking thing of course!
+
+**Apache Cordova** - Phonegap rebranded for Apache
+
+There are lots of webkits! 
+
+### Devices and their capabilities
+
+#### Android
+
+*	Touch events are a lie!
+*	CSS performance is awful
+*	Transforms can be hardware accelerated but hardly work
+*	Only the bleeding edge have SVG
+*	Default browser is being dropped, chrome a download
+
+#### iOS
+
+*	localStorage randomly gets dropped
+*	position: fixed (fucked) onlt recently implemented
+
+#### Blackberry 6+
+
+*	Scores the best for default browser
+
+#### Windows
+
+*	no touch
+*	no localStorage
+*	no webSQL
+*	FAST SVG and canvas
+
+#### Common 
+
+*	scrolling is dodgy
+*	Fixed positioning isn't quite there
+
+**If your doing mobile development, a client is bound to have one of the crappy devices**
+
+### Performance tips
+
+"Your finger does not click" - there are loads of libraries around to solve this problem... (Paul Irish on Github)
+
+"CSS Effects are slow" - your app will be slow!
+
+"PostMessage Hack" - postMessage can be used in modern mobiles today! 
+
+"Production code always has a build step!" - Concatenation, minifying, pre-processors, JSLint
+
+### Debugging
+
+Most people -> alert("Here") now > console.log("here!!")!!
+
+**On Mobile:** 
+
+Test test and test again - unit testing!
+
+QUnit - cool article [here](http://javascriptplayground.com/blog/2012/04/javascript-testing-qunit-1) by [@Jack_Franklin](http://twitter.com/#!/Jack_Franklin)
+
+**Remote debugging**: Web inspector remote (weinre), adobe shadow, chrome remote debugger!
+
+**Weinre** - debugging with remote web inspector, you also get a console! Similar to Paul Irish demo'd at jQuery UK can debug on debug.phonegap.com? (Double check that someone)
+
+"Mobile is a bloody mess" - Help fix it!
+
+_Will update with link to slides later when Brian uploads them!_
+
