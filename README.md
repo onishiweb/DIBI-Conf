@@ -180,3 +180,102 @@ QUnit - cool article [here](http://javascriptplayground.com/blog/2012/04/javascr
 
 _Will update with link to slides later when Brian uploads them!_
 
+## Rob Hawkes - HTML5 Games - Not just for Gamers
+
+[@robhawkes](http://twitter.com/#!/robhawkes)
+
+Notes online soon...
+
+Games are important - their universal, not just computer games...
+
+**Paperboy - Bomberman - Lylat Wars - Sim City - Red Alert**
+
+Games are fun! - Games make use of the topics/subjects that provoke an emotion in us _Fruit Ninja_
+
+Games push boundaries - They deliberately use as much power as possible _Battlefield series_ In 9 years the minimum requirements have exploded!
+
+Games mean a better web - Better features, better performance - the web technologies are being pushed by game development. 
+
+**Play more games!** It helps make the web better!
+
+### New technologies
+
+#### Existing HTML5 games
+
+*  HTML5 Quake II
+*	Cut the Rope
+* 	Bejeweled
+*	Command & Conquer
+*	GT Racing (3D tech) - on the Chrome web store!
+*	Browser Quest (Mozilla) - (All open source, it's on Github)
+
+#### Canvas
+
+*	2D Graphics platform
+*	Image manipulation
+*	Silk demo...
+*	Drawing curved lines (it's not always the obvious stuff)
+
+#### WebGL
+
+*	3D graphics rendering
+*	Uses the Canvas element for output
+*	Hello Racer demo - Rome video?
+*	Tinker CAD - 3D modelling using Canvas - can be printed using 3D printers :)
+*	Google Maps & Nokia WebGL Maps - completely 3D rendering in some cities
+*	three.js Mr Doob
+
+#### requestAnimationFrame
+
+*	Managing animation in JS
+*	Better than using something like setTimeout...
+*	Shim by Paul Irish for cross-browser use
+
+#### HTML5 Audio API
+
+*	Sound effects and background music
+*	Audio data API by Firefox & Web Audio API by Chrome devs
+*	Audio API is pretty straight forward, wrapper tag and source elements (similar to video) - then access through JS
+
+#### localStorage
+
+*	Store data local to the browser - much larger data than a cookie!
+*	Can remove the need for constant connection to the net...
+
+#### WebSockets
+
+*	Real-time communication - data being pushed in and out of the server
+*	All in JS
+
+#### Web Workers
+
+*	Background JS
+*	Working with large quantities of data in the background and not slowing down the website
+*	Similar to WebSockets, all set up in JS, set it up and wait for data to come back...
+
+#### Full Screen API
+
+*	Expand *any* DOM element to full-screen!! 
+*	Canvas full screen! BOOM!
+*	There is some security around it, full-screen access has to seek permission first (similar to Geolocate)
+
+#### Screen Orientation API
+
+*	Lock orientation on devices from JS 
+*	Not in all browsers yet
+
+#### Node.js
+
+*	Game servers...
+
+#### Web Applications
+
+*	An app-like experience... remove the browser chrome!
+
+### Keeping up on latest tech
+
+[Mozilla Wiki](https://wiki.mozilla.org/Platform/AreWeFunYet) (Are we fun yet!) - Info on what's coming up/being done
+[Mozilla Are we Mobile yet?](http://arewemobileyet.com/) Boot to Gecko (is awesome by the way!)
+[Mozilla general wiki](https://wiki.mozilla.org/Main_Page) - more general info on the latest stuff, road maps etc
+
+Try it: Firefox Aurora or Nightly!
