@@ -361,3 +361,63 @@ Pick your battles.
 
 Ask why? Why don't they like something, again finding the problem not the solution.
 
+
+## Dan Rubin - All of this has happenend before
+
+[@danrubin](http://twitter.com/#!/danrubin)
+
+### A Rant!
+
+"We don't try hard enough" - We try to do all the stuff we're meant to, but do we try hard enough? There are far too many excuses not to do the things we *should* be doing.
+
+Constraints are good but they become an excuse to lower our targets...
+
+Doing things the "old way" instead of the things that we should be doing - the resistence to change.
+
+Do we afford ourselves enough time to do the right things?
+
+Are we doomed to repeat our mistakes.
+
+### We've seen this before
+
+What are these simple things not being done:
+
+*  Web standards - people still fight this?
+*	Accessibility - why is it not taken seriously enough
+*	Usability - !!
+
+### Why?
+
+It's how we think:
+
+**De Bono's 6 thinking hats** - Our communication is based on a natural argumentative style - even if we agree "Aggressive disagreement"
+
+Focus on changing the thought process...
+
+### Defining failure
+
+If we are still making mistakes we need to know how to identify the risks and failures.
+
+Embrace failures - becoming a more popular idea - why do we view mistakes as bad things, the language of failure is negative so we naturally take on that negativity.
+
+### It all boils down to language!
+
+*	**Fail vs. Experiment**
+
+*	**Mistake vs. Try**
+
+*	**Poor planning vs. Spontinaity**
+
+**Personal experience - We learn because we make mistakes**
+
+### How do we use what we've learned
+
+**Our responsibility is to know our job better than our clients/bosses** - we need to be the best that we can be at what we do!
+
+It's important to experiment within organisations and take new approaches to things, learn from the experimentation and not continue to do everything the same all the time.
+
+Use mini-projects to try out new work, use them as case studies - it helps introduce new projects, new directions.
+
+We can't solve every problem - we still try though, we just have to be aware that it's not the end of the world if we can't solve it.
+
+Find something to try -> **Try one thing this week!**
